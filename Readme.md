@@ -5,4 +5,4 @@ The Link To Use Jadeliver For This Repo Is Like This
 
 The Link To Use Jadeliver For This File Is Like This
 
-"https://cdn.jsdelivr.net/gh/aiuser0123456/Jadeliver/Read.me"
+"https://cdn.jsdelivr.net/gh/aiuser0123456/Jadeliver/Readme.md"
